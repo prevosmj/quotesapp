@@ -1,23 +1,35 @@
 const quotes = [
     {
-        "q": "Quote 1",
-        "a": "Author 1"
+        "q": "The air is tasty here.",
+        "a": "Boy on Route 117"
     },
     {
-        "q": "Quote 2",
-        "a": "Author 2"
+        "q": "One does not simply walk into a Mirage Spot.",
+        "a": "Old man in Pacifidlog Town"
     },
     {
-        "q": "Quote 3",
-        "a": "Author 3"
+        "q": "Hi! I like shorts! They're comfy and easy to wear!",
+        "a": "Youngster on Route 3"
     },
     {
-        "q": "Quote 4",
-        "a": "Author 4"
+        "q": "My Rattata is different from regular Rattata. It's like my Rattata is in the top percentage of Rattatas.",
+        "a": "Youngster Joey"
     },
     {
-        "q": "Quote 5",
-        "a": "Author 5"
+        "q": "How is that going to work? We're all named Grunt!",
+        "a": "Team Skull Grunt"
+    },
+    {
+        "q": "Pokemon with cool knees are so neat.",
+        "a": "Strange Child"
+    },
+    {
+        "q": "I may be bad and stupid, but I'm serious about Pokemon.",
+        "a": "Punk Trainer"
+    },
+    {
+        "q": "I'm too young for math!",
+        "a": "Child in Sun & Moon"
     }
 ];
 
