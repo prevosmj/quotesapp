@@ -10,12 +10,19 @@
     <body id="gradient">
         <main>
             <section>
-                <p id="text">Default Quote</p>
+                <div class="quotearea">
+                    <i class="fas fa-quote-left q"></i>
+                    <p id="text">Default Quote</p>
+                </div>
                 <cite id="author">Default Author</cite>
-            
-                <button class="btnarea" onclick="newQ()"><strong>New Quote</strong></button>
+                
+                <div>
+                    <button class="btnarea" style="width: 10%; margin-left: 1rem;" onclick="previous()"><i class="fas fa-arrow-left"></i> </button>
+                    <button class="btnarea" onclick="newQ()"><strong>New Quote <i id="typeIcon" onclick="changeType()" class="fas fa-bolt"></i></strong></button>
+                </div>  
             </section>  
         </main>
         <script src='script.js'></script>   
+        <script src="https://kit.fontawesome.com/717ec69abf.js" crossorigin="anonymous"></script>
     </body>
 </html>
